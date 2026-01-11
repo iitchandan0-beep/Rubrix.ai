@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rubrix",
+  "description": "Learn how answers are judged. A comprehensive AI-powered homework suite for students to check, solve, and improve their academic work responsibly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
